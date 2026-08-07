@@ -11,11 +11,11 @@ I have a doctorate in Meteorology and I'm based in Boston, Massachusetts.
 * Cloud-radiative interactions
 
 🛠️ Throughout my work, I have gained extensive experience in obtaining, running, and analyzing various geospatial data streams:
-### Observations
+* Observations:
   * Satellites
   * Radars
   * Radiosondes
-### Numerical Models
+* Numerical Models:
   * Reanalysis (ERA5, GFS)
   * WRF
   * MPAS
