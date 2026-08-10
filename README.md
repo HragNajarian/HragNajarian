@@ -8,6 +8,7 @@ I have a doctorate in Meteorology and I'm based in Boston, Massachusetts.
 * The El Niño/Southern Oscillation (ENSO)
 * High-frequency convectively coupled equatorial waves (CCEWs)
 * The daily cycle of rainfall
+* Land-ocean interactions
 * Cloud-radiative interactions
 
 🛠️ Throughout my work, I have gained extensive experience in obtaining, running, and analyzing various geospatial data streams:
