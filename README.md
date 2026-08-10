@@ -12,19 +12,30 @@ I have a doctorate in Meteorology and I'm based in Boston, Massachusetts.
 
 🛠️ Throughout my work, I have gained extensive experience in obtaining, running, and analyzing various geospatial data streams:
 * Observations:
-  * Satellites
-  * Radars
-  * Radiosondes
+  * Satellite (TRMM, IMERG, CERES)
+  * Radars (NEXRAD WSR-88D)
+  * Radiosonde
+  * Weather stations
 * Numerical Models:
   * Reanalysis (ERA5, GFS)
   * WRF
   * MPAS
 
-Fun fact:
-* My most recent DIY project is building a 2-story terrarium for my tortoise
-* I love anything and everything tech related
-* I can juggle
-* I can nerd out at about anything
+📊 I have a strong understanding of a wide catalog of statistical methods through applied or learned avenues:
+* PDFs
+* Statistical significance testing
+* Regression
+* Composites analysis
+* Empirical orthogonal function (EOF) / principal component analysis (PCA)
+* Harmonic and power spectral analysis
+* Filtering
+* Objective mapping/Krigging
+
+Fun facts:
+* 🐢 My most recent DIY project is building a 2-story terrarium for my tortoise
+* 💻 I love anything and everything that is tech adjacent
+* 🍕 I was raised in a pizzeria
+* ☕️ I don't just love coffee, I've built a hobby around my love of coffee
 
 <!--
 **HragNajarian/HragNajarian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
