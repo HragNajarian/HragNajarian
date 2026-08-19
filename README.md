@@ -2,6 +2,8 @@
 
 I have a doctorate in Meteorology and I'm based in Boston, Massachusetts.
 
+I am passionate about joining the private sector to solve challenging issues efficiently and effectively.
+
 🧐 My expertise is primarily over the tropics understanding:
 * Tropical cyclones & hurricanes
 * The Madden-Julian Oscillation (MJO)
@@ -31,6 +33,7 @@ I have a doctorate in Meteorology and I'm based in Boston, Massachusetts.
 * Harmonic and power spectral analysis
 * Filtering
 * Objective mapping/Krigging
+* Training/Inference (Machine Learning)
 
 Fun facts:
 * 🐢 My most recent DIY project is building a 2-story terrarium for my tortoise
